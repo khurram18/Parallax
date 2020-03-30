@@ -15,6 +15,17 @@
 		20B3C32C24320FD500A270F1 /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 20B3C32A24320FD500A270F1 /* LaunchScreen.storyboard */; };
 		20B3C33724320FD500A270F1 /* ParallexTests.swift in Sources */ = {isa = PBXBuildFile; fileRef = 20B3C33624320FD500A270F1 /* ParallexTests.swift */; };
 		20B3C34224320FD500A270F1 /* ParallexUITests.swift in Sources */ = {isa = PBXBuildFile; fileRef = 20B3C34124320FD500A270F1 /* ParallexUITests.swift */; };
+		20B3C35A2432148200A270F1 /* charles-deluvio.jpg in Resources */ = {isa = PBXBuildFile; fileRef = 20B3C3502432148200A270F1 /* charles-deluvio.jpg */; };
+		20B3C35B2432148200A270F1 /* dave-weatherall.jpg in Resources */ = {isa = PBXBuildFile; fileRef = 20B3C3512432148200A270F1 /* dave-weatherall.jpg */; };
+		20B3C35C2432148200A270F1 /* annie-spratt.jpg in Resources */ = {isa = PBXBuildFile; fileRef = 20B3C3522432148200A270F1 /* annie-spratt.jpg */; };
+		20B3C35D2432148200A270F1 /* harley-davidson.jpg in Resources */ = {isa = PBXBuildFile; fileRef = 20B3C3532432148200A270F1 /* harley-davidson.jpg */; };
+		20B3C35E2432148200A270F1 /* robert-gomez.jpg in Resources */ = {isa = PBXBuildFile; fileRef = 20B3C3542432148200A270F1 /* robert-gomez.jpg */; };
+		20B3C35F2432148200A270F1 /* adomas-aleno.jpg in Resources */ = {isa = PBXBuildFile; fileRef = 20B3C3552432148200A270F1 /* adomas-aleno.jpg */; };
+		20B3C3602432148200A270F1 /* nadine-shaabana.jpg in Resources */ = {isa = PBXBuildFile; fileRef = 20B3C3562432148200A270F1 /* nadine-shaabana.jpg */; };
+		20B3C3612432148200A270F1 /* yucel-moran.jpg in Resources */ = {isa = PBXBuildFile; fileRef = 20B3C3572432148200A270F1 /* yucel-moran.jpg */; };
+		20B3C3622432148200A270F1 /* bosco-shots.jpg in Resources */ = {isa = PBXBuildFile; fileRef = 20B3C3582432148200A270F1 /* bosco-shots.jpg */; };
+		20B3C3632432148200A270F1 /* jason-leung.jpg in Resources */ = {isa = PBXBuildFile; fileRef = 20B3C3592432148200A270F1 /* jason-leung.jpg */; };
+		20B3C365243217F200A270F1 /* TableViewCell.swift in Sources */ = {isa = PBXBuildFile; fileRef = 20B3C364243217F200A270F1 /* TableViewCell.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXContainerItemProxy section */
@@ -49,6 +60,17 @@
 		20B3C33D24320FD500A270F1 /* ParallexUITests.xctest */ = {isa = PBXFileReference; explicitFileType = wrapper.cfbundle; includeInIndex = 0; path = ParallexUITests.xctest; sourceTree = BUILT_PRODUCTS_DIR; };
 		20B3C34124320FD500A270F1 /* ParallexUITests.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ParallexUITests.swift; sourceTree = "<group>"; };
 		20B3C34324320FD500A270F1 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
+		20B3C3502432148200A270F1 /* charles-deluvio.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = "charles-deluvio.jpg"; sourceTree = "<group>"; };
+		20B3C3512432148200A270F1 /* dave-weatherall.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = "dave-weatherall.jpg"; sourceTree = "<group>"; };
+		20B3C3522432148200A270F1 /* annie-spratt.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = "annie-spratt.jpg"; sourceTree = "<group>"; };
+		20B3C3532432148200A270F1 /* harley-davidson.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = "harley-davidson.jpg"; sourceTree = "<group>"; };
+		20B3C3542432148200A270F1 /* robert-gomez.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = "robert-gomez.jpg"; sourceTree = "<group>"; };
+		20B3C3552432148200A270F1 /* adomas-aleno.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = "adomas-aleno.jpg"; sourceTree = "<group>"; };
+		20B3C3562432148200A270F1 /* nadine-shaabana.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = "nadine-shaabana.jpg"; sourceTree = "<group>"; };
+		20B3C3572432148200A270F1 /* yucel-moran.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = "yucel-moran.jpg"; sourceTree = "<group>"; };
+		20B3C3582432148200A270F1 /* bosco-shots.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = "bosco-shots.jpg"; sourceTree = "<group>"; };
+		20B3C3592432148200A270F1 /* jason-leung.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = "jason-leung.jpg"; sourceTree = "<group>"; };
+		20B3C364243217F200A270F1 /* TableViewCell.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = TableViewCell.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -99,6 +121,7 @@
 		20B3C31E24320FD300A270F1 /* Parallex */ = {
 			isa = PBXGroup;
 			children = (
+				20B3C34F2432146800A270F1 /* Images */,
 				20B3C31F24320FD300A270F1 /* AppDelegate.swift */,
 				20B3C32124320FD300A270F1 /* SceneDelegate.swift */,
 				20B3C32324320FD300A270F1 /* ViewController.swift */,
@@ -106,6 +129,7 @@
 				20B3C32824320FD500A270F1 /* Assets.xcassets */,
 				20B3C32A24320FD500A270F1 /* LaunchScreen.storyboard */,
 				20B3C32D24320FD500A270F1 /* Info.plist */,
+				20B3C364243217F200A270F1 /* TableViewCell.swift */,
 			);
 			path = Parallex;
 			sourceTree = "<group>";
@@ -126,6 +150,23 @@
 				20B3C34324320FD500A270F1 /* Info.plist */,
 			);
 			path = ParallexUITests;
+			sourceTree = "<group>";
+		};
+		20B3C34F2432146800A270F1 /* Images */ = {
+			isa = PBXGroup;
+			children = (
+				20B3C3552432148200A270F1 /* adomas-aleno.jpg */,
+				20B3C3522432148200A270F1 /* annie-spratt.jpg */,
+				20B3C3582432148200A270F1 /* bosco-shots.jpg */,
+				20B3C3502432148200A270F1 /* charles-deluvio.jpg */,
+				20B3C3512432148200A270F1 /* dave-weatherall.jpg */,
+				20B3C3532432148200A270F1 /* harley-davidson.jpg */,
+				20B3C3592432148200A270F1 /* jason-leung.jpg */,
+				20B3C3562432148200A270F1 /* nadine-shaabana.jpg */,
+				20B3C3542432148200A270F1 /* robert-gomez.jpg */,
+				20B3C3572432148200A270F1 /* yucel-moran.jpg */,
+			);
+			path = Images;
 			sourceTree = "<group>";
 		};
 /* End PBXGroup section */
@@ -233,8 +274,18 @@
 			buildActionMask = 2147483647;
 			files = (
 				20B3C32C24320FD500A270F1 /* LaunchScreen.storyboard in Resources */,
+				20B3C35A2432148200A270F1 /* charles-deluvio.jpg in Resources */,
+				20B3C35B2432148200A270F1 /* dave-weatherall.jpg in Resources */,
 				20B3C32924320FD500A270F1 /* Assets.xcassets in Resources */,
+				20B3C35E2432148200A270F1 /* robert-gomez.jpg in Resources */,
 				20B3C32724320FD300A270F1 /* Main.storyboard in Resources */,
+				20B3C3622432148200A270F1 /* bosco-shots.jpg in Resources */,
+				20B3C35C2432148200A270F1 /* annie-spratt.jpg in Resources */,
+				20B3C35D2432148200A270F1 /* harley-davidson.jpg in Resources */,
+				20B3C35F2432148200A270F1 /* adomas-aleno.jpg in Resources */,
+				20B3C3602432148200A270F1 /* nadine-shaabana.jpg in Resources */,
+				20B3C3612432148200A270F1 /* yucel-moran.jpg in Resources */,
+				20B3C3632432148200A270F1 /* jason-leung.jpg in Resources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
@@ -260,6 +311,7 @@
 			buildActionMask = 2147483647;
 			files = (
 				20B3C32424320FD300A270F1 /* ViewController.swift in Sources */,
+				20B3C365243217F200A270F1 /* TableViewCell.swift in Sources */,
 				20B3C32024320FD300A270F1 /* AppDelegate.swift in Sources */,
 				20B3C32224320FD300A270F1 /* SceneDelegate.swift in Sources */,
 			);
