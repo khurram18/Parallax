@@ -46,7 +46,7 @@
 /* End PBXContainerItemProxy section */
 
 /* Begin PBXFileReference section */
-		20B3C31C24320FD300A270F1 /* Parallex.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = Parallex.app; sourceTree = BUILT_PRODUCTS_DIR; };
+		20B3C31C24320FD300A270F1 /* Parallax.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = Parallax.app; sourceTree = BUILT_PRODUCTS_DIR; };
 		20B3C31F24320FD300A270F1 /* AppDelegate.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = AppDelegate.swift; sourceTree = "<group>"; };
 		20B3C32124320FD300A270F1 /* SceneDelegate.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = SceneDelegate.swift; sourceTree = "<group>"; };
 		20B3C32324320FD300A270F1 /* ViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ViewController.swift; sourceTree = "<group>"; };
@@ -54,10 +54,10 @@
 		20B3C32824320FD500A270F1 /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Assets.xcassets; sourceTree = "<group>"; };
 		20B3C32B24320FD500A270F1 /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/LaunchScreen.storyboard; sourceTree = "<group>"; };
 		20B3C32D24320FD500A270F1 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
-		20B3C33224320FD500A270F1 /* ParallexTests.xctest */ = {isa = PBXFileReference; explicitFileType = wrapper.cfbundle; includeInIndex = 0; path = ParallexTests.xctest; sourceTree = BUILT_PRODUCTS_DIR; };
+		20B3C33224320FD500A270F1 /* ParallaxTests.xctest */ = {isa = PBXFileReference; explicitFileType = wrapper.cfbundle; includeInIndex = 0; path = ParallaxTests.xctest; sourceTree = BUILT_PRODUCTS_DIR; };
 		20B3C33624320FD500A270F1 /* ParallexTests.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ParallexTests.swift; sourceTree = "<group>"; };
 		20B3C33824320FD500A270F1 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
-		20B3C33D24320FD500A270F1 /* ParallexUITests.xctest */ = {isa = PBXFileReference; explicitFileType = wrapper.cfbundle; includeInIndex = 0; path = ParallexUITests.xctest; sourceTree = BUILT_PRODUCTS_DIR; };
+		20B3C33D24320FD500A270F1 /* ParallaxUITests.xctest */ = {isa = PBXFileReference; explicitFileType = wrapper.cfbundle; includeInIndex = 0; path = ParallaxUITests.xctest; sourceTree = BUILT_PRODUCTS_DIR; };
 		20B3C34124320FD500A270F1 /* ParallexUITests.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ParallexUITests.swift; sourceTree = "<group>"; };
 		20B3C34324320FD500A270F1 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
 		20B3C3502432148200A270F1 /* charles-deluvio.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = "charles-deluvio.jpg"; sourceTree = "<group>"; };
@@ -101,9 +101,9 @@
 		20B3C31324320FD300A270F1 = {
 			isa = PBXGroup;
 			children = (
-				20B3C31E24320FD300A270F1 /* Parallex */,
-				20B3C33524320FD500A270F1 /* ParallexTests */,
-				20B3C34024320FD500A270F1 /* ParallexUITests */,
+				20B3C31E24320FD300A270F1 /* Parallax */,
+				20B3C33524320FD500A270F1 /* ParallaxTests */,
+				20B3C34024320FD500A270F1 /* ParallaxUITests */,
 				20B3C31D24320FD300A270F1 /* Products */,
 			);
 			sourceTree = "<group>";
@@ -111,14 +111,14 @@
 		20B3C31D24320FD300A270F1 /* Products */ = {
 			isa = PBXGroup;
 			children = (
-				20B3C31C24320FD300A270F1 /* Parallex.app */,
-				20B3C33224320FD500A270F1 /* ParallexTests.xctest */,
-				20B3C33D24320FD500A270F1 /* ParallexUITests.xctest */,
+				20B3C31C24320FD300A270F1 /* Parallax.app */,
+				20B3C33224320FD500A270F1 /* ParallaxTests.xctest */,
+				20B3C33D24320FD500A270F1 /* ParallaxUITests.xctest */,
 			);
 			name = Products;
 			sourceTree = "<group>";
 		};
-		20B3C31E24320FD300A270F1 /* Parallex */ = {
+		20B3C31E24320FD300A270F1 /* Parallax */ = {
 			isa = PBXGroup;
 			children = (
 				20B3C34F2432146800A270F1 /* Images */,
@@ -131,25 +131,25 @@
 				20B3C32D24320FD500A270F1 /* Info.plist */,
 				20B3C364243217F200A270F1 /* TableViewCell.swift */,
 			);
-			path = Parallex;
+			path = Parallax;
 			sourceTree = "<group>";
 		};
-		20B3C33524320FD500A270F1 /* ParallexTests */ = {
+		20B3C33524320FD500A270F1 /* ParallaxTests */ = {
 			isa = PBXGroup;
 			children = (
 				20B3C33624320FD500A270F1 /* ParallexTests.swift */,
 				20B3C33824320FD500A270F1 /* Info.plist */,
 			);
-			path = ParallexTests;
+			path = ParallaxTests;
 			sourceTree = "<group>";
 		};
-		20B3C34024320FD500A270F1 /* ParallexUITests */ = {
+		20B3C34024320FD500A270F1 /* ParallaxUITests */ = {
 			isa = PBXGroup;
 			children = (
 				20B3C34124320FD500A270F1 /* ParallexUITests.swift */,
 				20B3C34324320FD500A270F1 /* Info.plist */,
 			);
-			path = ParallexUITests;
+			path = ParallaxUITests;
 			sourceTree = "<group>";
 		};
 		20B3C34F2432146800A270F1 /* Images */ = {
@@ -172,9 +172,9 @@
 /* End PBXGroup section */
 
 /* Begin PBXNativeTarget section */
-		20B3C31B24320FD300A270F1 /* Parallex */ = {
+		20B3C31B24320FD300A270F1 /* Parallax */ = {
 			isa = PBXNativeTarget;
-			buildConfigurationList = 20B3C34624320FD500A270F1 /* Build configuration list for PBXNativeTarget "Parallex" */;
+			buildConfigurationList = 20B3C34624320FD500A270F1 /* Build configuration list for PBXNativeTarget "Parallax" */;
 			buildPhases = (
 				20B3C31824320FD300A270F1 /* Sources */,
 				20B3C31924320FD300A270F1 /* Frameworks */,
@@ -184,14 +184,14 @@
 			);
 			dependencies = (
 			);
-			name = Parallex;
+			name = Parallax;
 			productName = Parallex;
-			productReference = 20B3C31C24320FD300A270F1 /* Parallex.app */;
+			productReference = 20B3C31C24320FD300A270F1 /* Parallax.app */;
 			productType = "com.apple.product-type.application";
 		};
-		20B3C33124320FD500A270F1 /* ParallexTests */ = {
+		20B3C33124320FD500A270F1 /* ParallaxTests */ = {
 			isa = PBXNativeTarget;
-			buildConfigurationList = 20B3C34924320FD500A270F1 /* Build configuration list for PBXNativeTarget "ParallexTests" */;
+			buildConfigurationList = 20B3C34924320FD500A270F1 /* Build configuration list for PBXNativeTarget "ParallaxTests" */;
 			buildPhases = (
 				20B3C32E24320FD500A270F1 /* Sources */,
 				20B3C32F24320FD500A270F1 /* Frameworks */,
@@ -202,14 +202,14 @@
 			dependencies = (
 				20B3C33424320FD500A270F1 /* PBXTargetDependency */,
 			);
-			name = ParallexTests;
+			name = ParallaxTests;
 			productName = ParallexTests;
-			productReference = 20B3C33224320FD500A270F1 /* ParallexTests.xctest */;
+			productReference = 20B3C33224320FD500A270F1 /* ParallaxTests.xctest */;
 			productType = "com.apple.product-type.bundle.unit-test";
 		};
-		20B3C33C24320FD500A270F1 /* ParallexUITests */ = {
+		20B3C33C24320FD500A270F1 /* ParallaxUITests */ = {
 			isa = PBXNativeTarget;
-			buildConfigurationList = 20B3C34C24320FD500A270F1 /* Build configuration list for PBXNativeTarget "ParallexUITests" */;
+			buildConfigurationList = 20B3C34C24320FD500A270F1 /* Build configuration list for PBXNativeTarget "ParallaxUITests" */;
 			buildPhases = (
 				20B3C33924320FD500A270F1 /* Sources */,
 				20B3C33A24320FD500A270F1 /* Frameworks */,
@@ -220,9 +220,9 @@
 			dependencies = (
 				20B3C33F24320FD500A270F1 /* PBXTargetDependency */,
 			);
-			name = ParallexUITests;
+			name = ParallaxUITests;
 			productName = ParallexUITests;
-			productReference = 20B3C33D24320FD500A270F1 /* ParallexUITests.xctest */;
+			productReference = 20B3C33D24320FD500A270F1 /* ParallaxUITests.xctest */;
 			productType = "com.apple.product-type.bundle.ui-testing";
 		};
 /* End PBXNativeTarget section */
@@ -248,7 +248,7 @@
 					};
 				};
 			};
-			buildConfigurationList = 20B3C31724320FD300A270F1 /* Build configuration list for PBXProject "Parallex" */;
+			buildConfigurationList = 20B3C31724320FD300A270F1 /* Build configuration list for PBXProject "Parallax" */;
 			compatibilityVersion = "Xcode 9.3";
 			developmentRegion = en;
 			hasScannedForEncodings = 0;
@@ -261,9 +261,9 @@
 			projectDirPath = "";
 			projectRoot = "";
 			targets = (
-				20B3C31B24320FD300A270F1 /* Parallex */,
-				20B3C33124320FD500A270F1 /* ParallexTests */,
-				20B3C33C24320FD500A270F1 /* ParallexUITests */,
+				20B3C31B24320FD300A270F1 /* Parallax */,
+				20B3C33124320FD500A270F1 /* ParallaxTests */,
+				20B3C33C24320FD500A270F1 /* ParallaxUITests */,
 			);
 		};
 /* End PBXProject section */
@@ -338,12 +338,12 @@
 /* Begin PBXTargetDependency section */
 		20B3C33424320FD500A270F1 /* PBXTargetDependency */ = {
 			isa = PBXTargetDependency;
-			target = 20B3C31B24320FD300A270F1 /* Parallex */;
+			target = 20B3C31B24320FD300A270F1 /* Parallax */;
 			targetProxy = 20B3C33324320FD500A270F1 /* PBXContainerItemProxy */;
 		};
 		20B3C33F24320FD500A270F1 /* PBXTargetDependency */ = {
 			isa = PBXTargetDependency;
-			target = 20B3C31B24320FD300A270F1 /* Parallex */;
+			target = 20B3C31B24320FD300A270F1 /* Parallax */;
 			targetProxy = 20B3C33E24320FD500A270F1 /* PBXContainerItemProxy */;
 		};
 /* End PBXTargetDependency section */
@@ -487,12 +487,12 @@
 			buildSettings = {
 				ASSETCATALOG_COMPILER_APPICON_NAME = AppIcon;
 				CODE_SIGN_STYLE = Automatic;
-				INFOPLIST_FILE = Parallex/Info.plist;
+				INFOPLIST_FILE = Parallax/Info.plist;
 				LD_RUNPATH_SEARCH_PATHS = (
 					"$(inherited)",
 					"@executable_path/Frameworks",
 				);
-				PRODUCT_BUNDLE_IDENTIFIER = com.example.Parallex;
+				PRODUCT_BUNDLE_IDENTIFIER = com.example.Parallax;
 				PRODUCT_NAME = "$(TARGET_NAME)";
 				SWIFT_VERSION = 5.0;
 				TARGETED_DEVICE_FAMILY = "1,2";
@@ -504,12 +504,12 @@
 			buildSettings = {
 				ASSETCATALOG_COMPILER_APPICON_NAME = AppIcon;
 				CODE_SIGN_STYLE = Automatic;
-				INFOPLIST_FILE = Parallex/Info.plist;
+				INFOPLIST_FILE = Parallax/Info.plist;
 				LD_RUNPATH_SEARCH_PATHS = (
 					"$(inherited)",
 					"@executable_path/Frameworks",
 				);
-				PRODUCT_BUNDLE_IDENTIFIER = com.example.Parallex;
+				PRODUCT_BUNDLE_IDENTIFIER = com.example.Parallax;
 				PRODUCT_NAME = "$(TARGET_NAME)";
 				SWIFT_VERSION = 5.0;
 				TARGETED_DEVICE_FAMILY = "1,2";
@@ -522,18 +522,18 @@
 				ALWAYS_EMBED_SWIFT_STANDARD_LIBRARIES = YES;
 				BUNDLE_LOADER = "$(TEST_HOST)";
 				CODE_SIGN_STYLE = Automatic;
-				INFOPLIST_FILE = ParallexTests/Info.plist;
+				INFOPLIST_FILE = ParallaxTests/Info.plist;
 				IPHONEOS_DEPLOYMENT_TARGET = 13.4;
 				LD_RUNPATH_SEARCH_PATHS = (
 					"$(inherited)",
 					"@executable_path/Frameworks",
 					"@loader_path/Frameworks",
 				);
-				PRODUCT_BUNDLE_IDENTIFIER = com.example.ParallexTests;
+				PRODUCT_BUNDLE_IDENTIFIER = com.example.ParallaxTests;
 				PRODUCT_NAME = "$(TARGET_NAME)";
 				SWIFT_VERSION = 5.0;
 				TARGETED_DEVICE_FAMILY = "1,2";
-				TEST_HOST = "$(BUILT_PRODUCTS_DIR)/Parallex.app/Parallex";
+				TEST_HOST = "$(BUILT_PRODUCTS_DIR)/Parallax.app/Parallax";
 			};
 			name = Debug;
 		};
@@ -543,18 +543,18 @@
 				ALWAYS_EMBED_SWIFT_STANDARD_LIBRARIES = YES;
 				BUNDLE_LOADER = "$(TEST_HOST)";
 				CODE_SIGN_STYLE = Automatic;
-				INFOPLIST_FILE = ParallexTests/Info.plist;
+				INFOPLIST_FILE = ParallaxTests/Info.plist;
 				IPHONEOS_DEPLOYMENT_TARGET = 13.4;
 				LD_RUNPATH_SEARCH_PATHS = (
 					"$(inherited)",
 					"@executable_path/Frameworks",
 					"@loader_path/Frameworks",
 				);
-				PRODUCT_BUNDLE_IDENTIFIER = com.example.ParallexTests;
+				PRODUCT_BUNDLE_IDENTIFIER = com.example.ParallaxTests;
 				PRODUCT_NAME = "$(TARGET_NAME)";
 				SWIFT_VERSION = 5.0;
 				TARGETED_DEVICE_FAMILY = "1,2";
-				TEST_HOST = "$(BUILT_PRODUCTS_DIR)/Parallex.app/Parallex";
+				TEST_HOST = "$(BUILT_PRODUCTS_DIR)/Parallax.app/Parallax";
 			};
 			name = Release;
 		};
@@ -563,13 +563,13 @@
 			buildSettings = {
 				ALWAYS_EMBED_SWIFT_STANDARD_LIBRARIES = YES;
 				CODE_SIGN_STYLE = Automatic;
-				INFOPLIST_FILE = ParallexUITests/Info.plist;
+				INFOPLIST_FILE = ParallaxUITests/Info.plist;
 				LD_RUNPATH_SEARCH_PATHS = (
 					"$(inherited)",
 					"@executable_path/Frameworks",
 					"@loader_path/Frameworks",
 				);
-				PRODUCT_BUNDLE_IDENTIFIER = com.example.ParallexUITests;
+				PRODUCT_BUNDLE_IDENTIFIER = com.example.ParallaxUITests;
 				PRODUCT_NAME = "$(TARGET_NAME)";
 				SWIFT_VERSION = 5.0;
 				TARGETED_DEVICE_FAMILY = "1,2";
@@ -582,13 +582,13 @@
 			buildSettings = {
 				ALWAYS_EMBED_SWIFT_STANDARD_LIBRARIES = YES;
 				CODE_SIGN_STYLE = Automatic;
-				INFOPLIST_FILE = ParallexUITests/Info.plist;
+				INFOPLIST_FILE = ParallaxUITests/Info.plist;
 				LD_RUNPATH_SEARCH_PATHS = (
 					"$(inherited)",
 					"@executable_path/Frameworks",
 					"@loader_path/Frameworks",
 				);
-				PRODUCT_BUNDLE_IDENTIFIER = com.example.ParallexUITests;
+				PRODUCT_BUNDLE_IDENTIFIER = com.example.ParallaxUITests;
 				PRODUCT_NAME = "$(TARGET_NAME)";
 				SWIFT_VERSION = 5.0;
 				TARGETED_DEVICE_FAMILY = "1,2";
@@ -599,7 +599,7 @@
 /* End XCBuildConfiguration section */
 
 /* Begin XCConfigurationList section */
-		20B3C31724320FD300A270F1 /* Build configuration list for PBXProject "Parallex" */ = {
+		20B3C31724320FD300A270F1 /* Build configuration list for PBXProject "Parallax" */ = {
 			isa = XCConfigurationList;
 			buildConfigurations = (
 				20B3C34424320FD500A270F1 /* Debug */,
@@ -608,7 +608,7 @@
 			defaultConfigurationIsVisible = 0;
 			defaultConfigurationName = Release;
 		};
-		20B3C34624320FD500A270F1 /* Build configuration list for PBXNativeTarget "Parallex" */ = {
+		20B3C34624320FD500A270F1 /* Build configuration list for PBXNativeTarget "Parallax" */ = {
 			isa = XCConfigurationList;
 			buildConfigurations = (
 				20B3C34724320FD500A270F1 /* Debug */,
@@ -617,7 +617,7 @@
 			defaultConfigurationIsVisible = 0;
 			defaultConfigurationName = Release;
 		};
-		20B3C34924320FD500A270F1 /* Build configuration list for PBXNativeTarget "ParallexTests" */ = {
+		20B3C34924320FD500A270F1 /* Build configuration list for PBXNativeTarget "ParallaxTests" */ = {
 			isa = XCConfigurationList;
 			buildConfigurations = (
 				20B3C34A24320FD500A270F1 /* Debug */,
@@ -626,7 +626,7 @@
 			defaultConfigurationIsVisible = 0;
 			defaultConfigurationName = Release;
 		};
-		20B3C34C24320FD500A270F1 /* Build configuration list for PBXNativeTarget "ParallexUITests" */ = {
+		20B3C34C24320FD500A270F1 /* Build configuration list for PBXNativeTarget "ParallaxUITests" */ = {
 			isa = XCConfigurationList;
 			buildConfigurations = (
 				20B3C34D24320FD500A270F1 /* Debug */,
