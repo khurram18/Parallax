@@ -30,7 +30,7 @@
                                                     <rect key="frame" x="10" y="5" width="394" height="290"/>
                                                 </imageView>
                                                 <label opaque="NO" userInteractionEnabled="NO" contentMode="left" horizontalHuggingPriority="251" verticalHuggingPriority="251" text="Label" textAlignment="natural" lineBreakMode="tailTruncation" baselineAdjustment="alignBaselines" adjustsFontSizeToFit="NO" translatesAutoresizingMaskIntoConstraints="NO" id="c7o-Ag-JNS">
-                                                    <rect key="frame" x="20" y="249" width="374" height="40"/>
+                                                    <rect key="frame" x="20" y="120" width="374" height="40"/>
                                                     <constraints>
                                                         <constraint firstAttribute="height" constant="40" id="Oq3-18-LGK"/>
                                                     </constraints>
@@ -47,18 +47,20 @@
                                                 <constraint firstItem="T8v-6p-x4f" firstAttribute="leading" secondItem="oAp-Db-Z7L" secondAttribute="leading" constant="10" id="XOE-Zx-c9Q"/>
                                                 <constraint firstAttribute="trailing" secondItem="T8v-6p-x4f" secondAttribute="trailing" constant="10" id="Xy5-PR-SUh"/>
                                                 <constraint firstItem="c7o-Ag-JNS" firstAttribute="trailing" secondItem="T8v-6p-x4f" secondAttribute="trailing" constant="-10" id="qJ8-dN-IjQ"/>
-                                                <constraint firstItem="c7o-Ag-JNS" firstAttribute="top" secondItem="oAp-Db-Z7L" secondAttribute="top" constant="249" id="tad-Rn-6Q8"/>
+                                                <constraint firstItem="c7o-Ag-JNS" firstAttribute="top" secondItem="oAp-Db-Z7L" secondAttribute="top" constant="120" id="tad-Rn-6Q8"/>
                                             </constraints>
                                         </tableViewCellContentView>
                                         <color key="backgroundColor" white="0.0" alpha="0.0" colorSpace="custom" customColorSpace="genericGamma22GrayColorSpace"/>
                                         <connections>
                                             <outlet property="contributerNameLabel" destination="c7o-Ag-JNS" id="38z-bS-FsB"/>
                                             <outlet property="featureImageView" destination="T8v-6p-x4f" id="AVj-HE-8ir"/>
+                                            <outlet property="nameLabelTopConstraint" destination="tad-Rn-6Q8" id="vVO-xm-DTY"/>
                                         </connections>
                                     </tableViewCell>
                                 </prototypes>
                                 <connections>
                                     <outlet property="dataSource" destination="BYZ-38-t0r" id="5LO-Rs-CfM"/>
+                                    <outlet property="delegate" destination="BYZ-38-t0r" id="76w-SO-rn4"/>
                                 </connections>
                             </tableView>
                         </subviews>

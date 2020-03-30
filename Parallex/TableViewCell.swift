@@ -10,18 +10,8 @@ import UIKit
 
 class TableViewCell: UITableViewCell {
 
-  @IBOutlet weak var featureImageView: UIImageView!
-  @IBOutlet weak var contributerNameLabel: UILabel!
-  override func awakeFromNib() {
-    super.awakeFromNib()
-    // Initialization code
-  
-}
-
-override func setSelected(_ selected: Bool, animated: Bool) {
-    super.setSelected(selected, animated: animated)
-
-    // Configure the view for the selected state
-}
+@IBOutlet weak var featureImageView: UIImageView!
+@IBOutlet weak var contributerNameLabel: UILabel!
+@IBOutlet weak var nameLabelTopConstraint: NSLayoutConstraint!
 
 }
