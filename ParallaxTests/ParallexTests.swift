@@ -7,7 +7,7 @@
 //
 
 import XCTest
-@testable import Parallex
+@testable import Parallax
 
 class ParallexTests: XCTestCase {
 

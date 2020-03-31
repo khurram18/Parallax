@@ -8,7 +8,7 @@
 
 import UIKit
 
-class TableViewCell: UITableViewCell {
+final class TableViewCell: UITableViewCell {
 
 @IBOutlet weak var featureImageView: UIImageView!
 @IBOutlet weak var contributerNameLabel: UILabel!
