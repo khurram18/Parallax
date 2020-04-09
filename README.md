@@ -3,4 +3,4 @@ An simple iOS app that demonstrates adding parallax effect to text when scrollin
 
 ![](demo.gif)
 
-The idea is to change the position of text label depending the scrolling state. 
+The idea is to change the position of text label depending the scrolling state. The complete tutorial can be found [here](https://bit.ly/39TnaQI).
